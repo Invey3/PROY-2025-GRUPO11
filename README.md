@@ -64,7 +64,7 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
 ## 🧪 Metodología
 
-> Cascada.
+> Cascada. Hemos ido planificando y siguiendo los pasos que corresponden sin desarrollar otro antes de terminar el objetivo anterior, tales como ha sido idear el proyecto, buscar sus funciones, crear un modelo y comenzar a construirlo.
 
 ---
 
