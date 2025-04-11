@@ -42,7 +42,9 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
   - Ej: Python
 - Microcontroladores
   - Raspberry Pi Pico W 2
-  
+  - Pantalla LED de 5 pulgadas
+  - Botones
+  - Carcasa
 
 ---
 
@@ -51,7 +53,7 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 ```
 /PROY-2025-GRUPOX
 │
-├── docs/               # Documentación general y reportes https://usmcl-my.sharepoint.com/:p:/r/personal/fbarrerav_usm_cl/Documents/Presentation.pptx?d=w896cfc724f94407d805537c0e7dd8ac3&csf=1&web=1&e=pbQvMH
+├── docs/               # Documentación general y reportes
 ├── src/                # Código fuente del proyecto
 ├── tests/              # Casos de prueba
 ├── assets/             # Imágenes, diagramas, etc.
@@ -62,7 +64,7 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
 ## 🧪 Metodología
 
-> *Describir la metodología de desarrollo del proyecto (ágil, en cascada, prototipado, etc.). También puedes incluir el flujo de trabajo con Git (feature branches, pull requests, etc.).*
+> Cascada.
 
 ---
 
