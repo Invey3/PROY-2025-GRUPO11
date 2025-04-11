@@ -14,14 +14,14 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
 ## 📝 Descripción breve del proyecto
 
-> *Nuestro proyecto se basa en un calendario menstrual creado para hacer un correcto seguimiento del periodo menstrual de la usuario, asi mismo darle consejos y hacer que su introducción en la pubertad sea un proceso menos agresivo.*
+> *Nuestro proyecto se basa en un calendario menstrual creado para hacer un correcto seguimiento del periodo menstrual del usuario, así mismo darle consejos y hacer que su introducción en la pubertad sea un proceso menos agresivo.*
 
 ---
 
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Crear un dispositivo de mesa que pueda hacer seguimiento del periodo menstrual del usuario.*
+  - *Crear un dispositivo de sobremesa que pueda hacer seguimiento del periodo menstrual del usuario.*
 - Objetivos específicos:
   - *Programar una interfaz amigable para el usuario
   - Conectar de manera correcta los componentes electronicos adicionales a las raspberry pico
