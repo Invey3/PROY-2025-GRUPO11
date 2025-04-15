@@ -44,7 +44,6 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
   - Raspberry Pi Pico W 2
   - Pantalla LED de 5 pulgadas
   - Botones
-  - Carcasa
 
 ---
 
@@ -69,9 +68,10 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 ---
 
 ## 📅 Cronograma de trabajo
+PPT Ideas de trabajo (opcional) (
+PPT Carta Gantt (https://www.canva.com/design/DAGkj8qdbdQ/YQCEBimZQhIOkcLYlW6Rqw/edit?utm_content=DAGkj8qdbdQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Carta Gantt](https://usmcl-my.sharepoint.com/my?id=%2Fpersonal%2Fibastias%5Fusm%5Fcl%2FDocuments%2FAttachments%2FInforme%20de%20Planificaci%C3%B3n%20de%20Proyecto%2Epdf&parent=%2Fpersonal%2Fibastias%5Fusm%5Fcl%2FDocuments%2FAttachments&ct=1744754176086&or=OWA%2DNT%2DMail&cid=e74fd22d%2D516e%2D1277%2D9c08%2Dd96d0321e8ec&ga=1&ls=true)
 
-
-[Carta Gantt](https://google.com)
 
 ---
 
@@ -82,5 +82,5 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 ---
 
 ## 📌 Notas adicionales
-
-> *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
+ Acta de reuniones 
+ Semana 1- Felix  e Ignacio https://usmcl-my.sharepoint.com/:w:/r/personal/ibastias_usm_cl/Documents/Document.docx?d=wdc2e009554aa44fbbc51d711b3119999&csf=1&web=1&e=2eTX2p
