@@ -77,7 +77,11 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
 ## 📚 Bibliografía
 
-[Enlace](https://google.com)
+- Consejos Zuri
+  - [medlineplus.org](https://medlineplus.gov/spanish/periodpain.html)
+  - [corachan.com](https://www.corachan.com/es/blog/5-claves-para-aliviar-el-dolor-menstrual_138941)
+  - [accuna.es](https://www.accuna.es/blog/10-consejos-para-aliviar-el-dolor-y-las-molestias-menstruales/)
+  - [quironsalud.com](https://www.quironsalud.com/blogs/es/objetivo-peso-saludable/comer-regla-evitar-dolores)
 
 ---
 
