@@ -84,4 +84,5 @@ PPT Carta Gantt (https://www.canva.com/design/DAGkj8qdbdQ/YQCEBimZQhIOkcLYlW6Rqw
 ## 📌 Notas adicionales
  Acta de reuniones 
  Semana 1- Felix  e Ignacio -> https://usmcl-my.sharepoint.com/:w:/r/personal/ibastias_usm_cl/Documents/Document.docx?d=wdc2e009554aa44fbbc51d711b3119999&csf=1&web=1&e=2eTX2p
+ 
  Semana 2- Sofia y Benjamin -> https://usmcl-my.sharepoint.com/:w:/r/personal/bhernandezg_usm_cl/_layouts/15/Doc.aspx?sourcedoc=%7BAB17D1E9-66F8-4A3C-AB1B-1D78B4726D9C%7D&file=Consejos%20de%20Zuri.docx&action=default&mobileredirect=true&DefaultItemOpen=1
