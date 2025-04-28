@@ -78,6 +78,11 @@ PPT Ideas de trabajo (opcional) (https://usmcl-my.sharepoint.com/:p:/r/personal/
 ## 📚 Bibliografía
 
 [Enlace](https://google.com)
+-Consejos que dara Zuri
+[medlineplus.org](https://medlineplus.gov/spanish/periodpain.html)
+[corochan.com](https://www.corachan.com/es/blog/5-claves-para-aliviar-el-dolor-menstrual_138941)
+[accuna.es](https://www.accuna.es/blog/10-consejos-para-aliviar-el-dolor-y-las-molestias-menstruales/)
+[quironsalud.com](https://www.quironsalud.com/blogs/es/objetivo-peso-saludable/comer-regla-evitar-dolores)
 
 ---
 
