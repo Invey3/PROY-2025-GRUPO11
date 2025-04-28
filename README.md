@@ -14,25 +14,25 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
 ## 📝 Descripción breve del proyecto
 
-> *Nuestro proyecto se basa en un calendario menstrual creado para hacer un correcto seguimiento del periodo menstrual del usuario, así mismo darle consejos y hacer que su introducción en la pubertad sea un proceso menos agresivo.*
+> *Nuestro proyecto trata de un calendario menstrual de sobremesa que permita realizar un correcto seguimiento del ciclo menstrual del usuario y entregar consejos para lograr sobrellevar este proceso de manera más amigable.*
 
 ---
 
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Crear un dispositivo de sobremesa que pueda hacer seguimiento del periodo menstrual del usuario.*
+  - *Crear un dispositivo de sobremesa que realice un seguimiento del ciclo menstrual del usuario.*
 - Objetivos específicos:
-  - *Programar una interfaz amigable para el usuario
-  - Conectar de manera correcta los componentes electronicos adicionales a las raspberry pico
-  - Creación de la mascota "Zuri" con sus respectivas animaciones y consejos
-  - Utilizar una api de ingreso libre que nos permita tener un seguimiento a tiempo real*
+  - Programar una interfaz amigable para el usuario.
+  - Conectar de manera correcta los componentes electrónicos adicionales a las Raspberry Pico.
+  - Creación de la mascota "Zuri" con sus respectivos sprites y consejos.
+  - Utilizar una API de ingreso libre que nos permita tener un seguimiento a tiempo real.
 
 ---
 
 ## 🧩 Alcance del proyecto
 
-> *Debido a la simpleza del proyecto encontramos que su alcance del proyecto sería de caracter masivo, lo cual nos alegra. Encontramos limitaciones al momento quizás de hacer predicciones en base a algoritmos mas complejos, por lo que no usaremos IA.*
+> *Debido a las características del proyecto, el alcance del proyecto sería de carácter universal, lo cual hace que sea masivo.*
 
 ---
 
@@ -68,7 +68,7 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 ---
 
 ## 📅 Cronograma de trabajo
-PPT Ideas de trabajo (opcional) (https://usmcl-my.sharepoint.com/:p:/r/personal/fbarrerav_usm_cl/Documents/Presentation.pptx?d=w896cfc724f94407d805537c0e7dd8ac3&csf=1&web=1&e=7NhVeC)
+[PPT Ideas de trabajo](https://usmcl-my.sharepoint.com/:p:/r/personal/fbarrerav_usm_cl/Documents/Presentation.pptx?d=w896cfc724f94407d805537c0e7dd8ac3&csf=1&web=1&e=7NhVeC)
 
 [Carta Gantt](https://www.canva.com/design/DAGl8yzWOQU/XSp1lUQktS29H-8-N6rCGA/edit?utm_content=DAGl8yzWOQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -78,11 +78,6 @@ PPT Ideas de trabajo (opcional) (https://usmcl-my.sharepoint.com/:p:/r/personal/
 ## 📚 Bibliografía
 
 [Enlace](https://google.com)
--Consejos que dara Zuri
-[medlineplus.org](https://medlineplus.gov/spanish/periodpain.html)
-[corochan.com](https://www.corachan.com/es/blog/5-claves-para-aliviar-el-dolor-menstrual_138941)
-[accuna.es](https://www.accuna.es/blog/10-consejos-para-aliviar-el-dolor-y-las-molestias-menstruales/)
-[quironsalud.com](https://www.quironsalud.com/blogs/es/objetivo-peso-saludable/comer-regla-evitar-dolores)
 
 ---
 
@@ -91,3 +86,4 @@ PPT Ideas de trabajo (opcional) (https://usmcl-my.sharepoint.com/:p:/r/personal/
  Semana 1- Felix  e Ignacio -> https://usmcl-my.sharepoint.com/:w:/r/personal/ibastias_usm_cl/Documents/Document.docx?d=wdc2e009554aa44fbbc51d711b3119999&csf=1&web=1&e=2eTX2p
  
  Semana 2- Sofia y Benjamin -> https://usmcl-my.sharepoint.com/:w:/r/personal/bhernandezg_usm_cl/_layouts/15/Doc.aspx?sourcedoc=%7BAB17D1E9-66F8-4A3C-AB1B-1D78B4726D9C%7D&file=Consejos%20de%20Zuri.docx&action=default&mobileredirect=true&DefaultItemOpen=1
+
