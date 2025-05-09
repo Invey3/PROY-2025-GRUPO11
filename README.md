@@ -92,3 +92,5 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
  
  [Semana 2- Sofia y Benjamin](https://usmcl-my.sharepoint.com/:w:/r/personal/bhernandezg_usm_cl/_layouts/15/Doc.aspx?sourcedoc=%7BAB17D1E9-66F8-4A3C-AB1B-1D78B4726D9C%7D&file=Consejos%20de%20Zuri.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
+ [Semana 3- Ignacio, Felix, Sofia y Benjamin](https://usmcl-my.sharepoint.com/:w:/r/personal/bhernandezg_usm_cl/Documents/Avance%2009-05-2025.docx?d=w0500a98a581a45eba419e0f90ef65ffa&csf=1&web=1&e=whpXBC)
+
