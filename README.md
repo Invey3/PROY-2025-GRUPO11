@@ -100,6 +100,9 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
  
  Librerias:
  [Main.py] Funcion prindipal (Utiliza todas las librerias asi que al momento de ejecutar el programa en thonny asegurense de que estén corriendo el main.py), en cualquier caso de que en futuras actualizaciones no funcione tenemos el backup subido el 27/05, QUE UTILIZA LAS LIBRERIAS LCD_API Y PICO_I2C_LCD ESTÁS LIBRERIAS SE VAN A BORRAR EN LA ACTUALIZACION FINAL.
+[lcd_api , pico_i2c_lcd] Funcion que se usa para limpiar la pantalla de la pantalla 16X2, estas librerias están subidas como un backup en caso de que la pantalla que debería llegar en junio esté dañada y tengamos que utilizarla como una solución parche.
+
+[ssd1306] Esta libreria es de las que más importan. Arregló el bug de la pantalla con puntos blancos, ya que utilizaremos la pantalla oled de 128x32 para dar consejos esta libreria NO deberia ser tocada. Añadanla al Thonny y dejenla correr, lo demás no se toca. 
 
 
  
