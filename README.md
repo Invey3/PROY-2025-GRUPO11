@@ -99,7 +99,10 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
  ## 📌 Codigo🤖
  
  Librerias:
- [Main.py] ()
+ [Main.py] Funcion prindipal (Utiliza todas las librerias asi que al momento de ejecutar el programa en thonny asegurense de que estén corriendo el main.py), en cualquier caso de que en futuras actualizaciones no funcione tenemos el backup subido el 27/05, QUE UTILIZA LAS LIBRERIAS LCD_API Y PICO_I2C_LCD ESTÁS LIBRERIAS SE VAN A BORRAR EN LA ACTUALIZACION FINAL.
+
+
+ 
 
  
 
