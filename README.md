@@ -96,3 +96,10 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
  [Semana 5- Ignacio](https://usmcl-my.sharepoint.com/:w:/g/personal/ibastias_usm_cl/EXWgK4xpySxMjfPkhSu__RgBL6v4sAvtH_nLVat6FSwOIg?e=40eUHm)
 
+ ## 📌 Codigo🤖
+ 
+ Librerias:
+ [Main.py] ()
+
+ 
+
