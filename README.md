@@ -105,7 +105,7 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 [lcd_api , pico_i2c_lcd] Funcion que se usa para limpiar la pantalla de la pantalla 16X2, estas librerias están subidas como un backup en caso de que la pantalla que debería llegar en junio esté dañada y tengamos que utilizarla como una solución parche.
 
 
-[ssd1306] Esta libreria es de las que más importan. Arregló el bug de la pantalla con puntos blancos, ya que utilizaremos la pantalla oled de 128x32 para dar consejos esta libreria NO deberia ser tocada. Añadanla al Thonny y dejenla correr, lo demás no se toca. 
+[ssd1306] Esta libreria es de las más importantes. Arregló el bug de la pantalla con puntos blancos, ya que utilizaremos la pantalla oled de 128x32 para dar consejos esta libreria NO deberia ser tocada. Añadanla al Thonny y dejenla correr, lo demás no se toca.
 
 
  
