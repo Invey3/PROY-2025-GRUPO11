@@ -8,7 +8,7 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 | Sofia Briones | @sofiabriones1      | sbriones@usm.cl | 202530019-2 |
 | Felix Barrera | @felixbarrea123      | fbarrerav@usm.cl | 202530044-3 |
 | Benjamin Hernandez | @bhernandezg06      | bhernandezg@usm.cl | 202530045-1 |
-| Ignacio Bastías | @ibastiasm      | ibastias@usm.cl | 202530005-2 |
+| Ignacio Bastías | @Invey3      | ibastias@usm.cl | 202530005-2 |
 | Victoria Alejandra Arredondo | @victtoriaalejandra      | varredondo@usm.cl | 202304027-4 |
 ---
 
