@@ -96,7 +96,9 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
  [Semana 5- Ignacio](https://usmcl-my.sharepoint.com/:w:/g/personal/ibastias_usm_cl/EXWgK4xpySxMjfPkhSu__RgBL6v4sAvtH_nLVat6FSwOIg?e=40eUHm)
 
+  Ana dejó la Universidad durante mediados de Abril.
  Con fecha 7 de Junio tanto Sofía como Benjamin congelaron el semestre, por lo que el resto del trabajo tendremos que llevarlo acabo entre Félix, Victoria e Ignacio.
+ Con fecha 12 de Junio, Victoria decidió congelar la carrera por temas de salud. 
 
  ## 📌 Codigo🤖
  
