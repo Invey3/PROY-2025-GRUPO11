@@ -113,6 +113,10 @@ Repositorio del grupo 11 del ramo Proyecto Inicial 2025
 
 
  
+## 📌 Reflexiones finales
 
- 
+Considerando los objetivos que consideramos a inicio de semestre podemos hacer las siguientes conclusiones. 
+Si creamos el dispositivo, conectamos los componentes electronicos de manera correcta para que el dispositivo funcione correctamente. 
+ No nos conectamos a ningun API, debido a que nos dimos cuenta que con la libreria Time podríamos realizar el seguimiento de manera correcta, tanto como la mascota Zuri fue creada en las fechas estipuladas y pudimos introducirla dentro del dispositivo. Lo que no pudimos conseguir fue realizar la interfaz interactiva para el usuario por las limitaciones que teniamos con los componentes que manejabamos. Implicaba conseguir otra protoboard por un tema de espacio y los botones, los cuales nos vimos limitados por nuestro propio bolsillo. 
+ De igual forma si sentimos que pudimos realizar el objetivo de forma parcial y sobre todo considerando que quedamos 2 de 6 miembros al momento de finalizar este proyecto.
 
