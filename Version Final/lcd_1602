@@ -1,0 +1,60 @@
+from machine import Pin
+from time import sleep_ms, sleep_us
+
+class LCD1602:
+    def __init__(self, rs, e, d4, d5, d6, d7, lines=2, cols=16):
+        self.rs = rs if isinstance(rs, Pin) else Pin(rs, Pin.OUT)
+        self.e = e if isinstance(e, Pin) else Pin(e, Pin.OUT)
+        self.d4 = d4 if isinstance(d4, Pin) else Pin(d4, Pin.OUT)
+        self.d5 = d5 if isinstance(d5, Pin) else Pin(d5, Pin.OUT)
+        self.d6 = d6 if isinstance(d6, Pin) else Pin(d6, Pin.OUT)
+        self.d7 = d7 if isinstance(d7, Pin) else Pin(d7, Pin.OUT)
+        self.lines = lines
+        self.cols = cols
+        self._init()
+
+    def _pulse_enable(self):
+        self.e.value(1)
+        sleep_us(1)
+        self.e.value(0)
+        sleep_us(1)
+
+    def _send_nibble(self, nibble):
+        self.d4.value((nibble >> 0) & 1)
+        self.d5.value((nibble >> 1) & 1)
+        self.d6.value((nibble >> 2) & 1)
+        self.d7.value((nibble >> 3) & 1)
+        self._pulse_enable()
+
+    def _send_byte(self, byte, mode=0):
+        self.rs.value(mode)
+        # Nibble alto (4 bits superiores)
+        self._send_nibble(byte >> 4)
+        # Nibble bajo (4 bits inferiores)
+        self._send_nibble(byte & 0x0F)
+        sleep_us(100)  # Espera para comandos
+
+    def _init(self):
+        sleep_ms(50)  # Espera inicial obligatoria
+        # Secuencia de reset (3 veces 0x30)
+        for _ in range(3):
+            self._send_nibble(0x03)
+            sleep_ms(5)
+        # Configurar modo 4-bit
+        self._send_nibble(0x02)
+        sleep_ms(1)
+        # Comandos de inicialización
+        self._send_byte(0x28)  # 2 líneas, matriz 5x8
+        self._send_byte(0x0C)  # Display ON, cursor OFF
+        self._send_byte(0x06)  # Auto-incremento cursor
+        self.clear()
+
+    def clear(self):
+        self._send_byte(0x01)
+        sleep_ms(2)
+
+    def print(self, text, row=0, col=0):
+        addr = 0x80 | (row * 0x40 + col)
+        self._send_byte(addr)
+        for char in text:
+            self._send_byte(ord(char), mode=1)
